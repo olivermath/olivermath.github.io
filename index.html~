@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script type="text/javascript"
+  src="LaTeXMathML.js">
+  </script>
 <style>
 		.AllDiv {
 			max-width: 90%;
@@ -80,10 +83,11 @@
     <section id="publications">
       <div class="HeaderDiv"><h2>Preprints and Publications</h2></div>
       <div class="BodyDiv"><ul>
-        <li>Chern class obstructions to smooth equivariant rigidity. <i>in progress</i></li>
-        <li><a href="https://arxiv.org/abs/2203.02566">Torus bundles over lens spaces.</a> <i>in revision</i> </li>
-        <li><a href="https://arxiv.org/abs/1806.09470">A spectral sequence for Dehn fillings.</a> <i>Algebraic & Geometric Topology</i> <b>21</b> (2021), no. 5, 2257-2272. </li>
-        <li><a href="https://arxiv.org/abs/1806.07074">Cohomology and the Bowditch boundary.</a> (with <a href="https://pi.math.cornell.edu/~jfmanning/">Jason Manning</a>) <i>Michigan Mathematical Journal</i> <b>63</b> (2020), no. 3, pp. 633-669. </li>
+	<li> The Whitehead group and stably trivial  </li>
+        <li><a href="https://arxiv.org/abs/2310.09363">Chern class obstructions to smooth equivariant rigidity. <i>Submitted</i></li>
+        <li><a href="https://arxiv.org/abs/2203.02566">Torus bundles over lens spaces.</a> <i>Forum Mathematicum</i>, 2024 </li>
+        <li><a href="https://arxiv.org/abs/1806.09470">A spectral sequence for Dehn fillings.</a> <i>Algebraic & Geometric Topology</i>, 2021 </li>
+        <li><a href="https://arxiv.org/abs/1806.07074">Cohomology and the Bowditch boundary.</a> (with <a href="https://pi.math.cornell.edu/~jfmanning/">Jason Manning</a>) <i>Michigan Mathematical Journal</i>, 2020 </li>
       </ul>
       </div>
     </section>

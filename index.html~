@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+		.AllDiv {
+			max-width: 90%;
+			margin: auto;		
+		}
+</style>
+
+<style>   
+ img{float: right;}
+</style>
+<style>
+		.HeaderDiv {
+			height: 45px;
+  			width: 70%;
+ 			background-color: #5fb9e2;
+			text-align: center;
+		}
+</style>
+
+<style>
+		.BodyDiv {
+			height: auto;
+  			width: 65%;
+ 			background-color: transparent;
+			text-align: justify;
+			white-space: normal;
+			margin: 25px;
+		}
+</style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oliver H. Wang</title>
+  <link rel="stylesheet" href="style.css"> <!-- Optional external CSS file -->
+
+  <!-- Optional: Add any additional stylesheets or scripts here -->
+</head>
+
+<body>
+<div class="AllDiv">
+<img src="WebsitePic.JPG" alt="caption." width="25%">  
+  <header>
+<h1>Oliver H. Wang</h1>
+<!--    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#research">Research</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#teaching">Teaching</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav><-->
+  </header>
+
+
+  <main>
+  	 <!-- About Section -->
+    <section id="about">
+      <div class="HeaderDiv"><h2>About</h2></div>
+      <div class="BodyDiv"><p> I am a 6th year graduate student at the University of Chicago working with <a href="http://math.uchicago.edu/~shmuel/">Shmuel Weinberger</a>.
+      Previously, I was an undergraduate at Cornell working with <a href="https://pi.math.cornell.edu/~jfmanning/">Jason Manning</a>.</p>
+      <p>My <a href="CV.pdf">CV</a></p></div>
+      </section>
+    
+    <!-- Research Section -->
+    <section id="research">
+      <div class="HeaderDiv"><h2>Research Interests</h2></div>
+      <div class="BodyDiv"><ul>
+       <li>Algebraic K-theory (specifically the K-theory of group rings), surgery theory and applications of the Farrell-Jones conjecture</li>
+       <li>Equivariant smoothing theory</li>
+       <li>Geometric group theory (specifically how it interacts with group cohomology)</li>
+      </ul>
+      </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section id="publications">
+      <div class="HeaderDiv"><h2>Preprints and Publications</h2></div>
+      <div class="BodyDiv"><ul>
+        <li>Chern class obstructions to smooth equivariant rigidity. <i>in progress</i></li>
+        <li><a href="https://arxiv.org/abs/2203.02566">Torus bundles over lens spaces.</a> <i>in revision</i> </li>
+        <li><a href="https://arxiv.org/abs/1806.09470">A spectral sequence for Dehn fillings.</a> <i>Algebraic & Geometric Topology</i> <b>21</b> (2021), no. 5, 2257-2272. </li>
+        <li><a href="https://arxiv.org/abs/1806.07074">Cohomology and the Bowditch boundary.</a> (with <a href="https://pi.math.cornell.edu/~jfmanning/">Jason Manning</a>) <i>Michigan Mathematical Journal</i> <b>63</b> (2020), no. 3, pp. 633-669. </li>
+      </ul>
+      </div>
+    </section>
+
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <div class="HeaderDiv"><h2>Contact Me</h2></div>
+      <div class="BodyDiv"><p>Email: oliverwang "at" uchicago.edu</p>
+       <p>Office: Math-Stat 013</p></div>
+    </section>
+  </main>
+<hr>
+  <footer>
+    <p>Last Updated: August 2023</p>
+  </footer>
+
+  <!-- Optional: Add any additional scripts here -->
+
+
+</div>
+</body>
+</html>

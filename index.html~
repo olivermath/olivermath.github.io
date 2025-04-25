@@ -63,8 +63,8 @@
   	 <!-- About Section -->
     <section id="about">
       <div class="HeaderDiv"><h2>About</h2></div>
-      <div class="BodyDiv"><p> I am a 6th year graduate student at the University of Chicago working with <a href="http://math.uchicago.edu/~shmuel/">Shmuel Weinberger</a>.
-      Previously, I was an undergraduate at Cornell working with <a href="https://pi.math.cornell.edu/~jfmanning/">Jason Manning</a>.</p>
+      <div class="BodyDiv"><p> I am an RTG Postdoc at UVA. Previously, I was a graduate student at the University of Chicago working with <a href="http://math.uchicago.edu/~shmuel/">Shmuel Weinberger</a>.
+      Before that, I was an undergraduate at Cornell working with <a href="https://pi.math.cornell.edu/~jfmanning/">Jason Manning</a>.</p>
       <p>My <a href="CV.pdf">CV</a></p></div>
       </section>
     
@@ -73,7 +73,8 @@
       <div class="HeaderDiv"><h2>Research Interests</h2></div>
       <div class="BodyDiv"><ul>
        <li>Algebraic K-theory (specifically the K-theory of group rings), surgery theory and applications of the Farrell-Jones conjecture</li>
-       <li>Equivariant smoothing theory</li>
+       <li>Smoothing theory</li>
+	<li> Group actions on high dimensional manifolds</li>
        <li>Geometric group theory (specifically how it interacts with group cohomology)</li>
       </ul>
       </div>
@@ -83,7 +84,8 @@
     <section id="publications">
       <div class="HeaderDiv"><h2>Preprints and Publications</h2></div>
       <div class="BodyDiv"><ul>
-	<li> The Whitehead group and stably trivial  </li>
+	<li> The rational homotopy of stable $C_p$-smoothings. <i>In progress</i> </li>
+	<li> The Whitehead group and stably trivial $G$-smoothings. <i>In progress</i> </li>
         <li><a href="https://arxiv.org/abs/2310.09363">Chern class obstructions to smooth equivariant rigidity. <i>Submitted</i></li>
         <li><a href="https://arxiv.org/abs/2203.02566">Torus bundles over lens spaces.</a> <i>Forum Mathematicum</i>, 2024 </li>
         <li><a href="https://arxiv.org/abs/1806.09470">A spectral sequence for Dehn fillings.</a> <i>Algebraic & Geometric Topology</i>, 2021 </li>
@@ -96,13 +98,13 @@
     <!-- Contact Section -->
     <section id="contact">
       <div class="HeaderDiv"><h2>Contact Me</h2></div>
-      <div class="BodyDiv"><p>Email: oliverwang "at" uchicago.edu</p>
-       <p>Office: Math-Stat 013</p></div>
+      <div class="BodyDiv"><p>Email: dfh3fs@virginia.edu</p>
+       <p>Office: Kerchof 301</p></div>
     </section>
   </main>
 <hr>
   <footer>
-    <p>Last Updated: August 2023</p>
+    <p>Last Updated: April 2025</p>
   </footer>
 
   <!-- Optional: Add any additional scripts here -->
